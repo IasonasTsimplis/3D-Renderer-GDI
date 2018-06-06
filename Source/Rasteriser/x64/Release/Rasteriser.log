@@ -1,0 +1,14 @@
+﻿  DirectionalLighting.cpp
+  Framework.cpp
+  Matrix.cpp
+  MD2Loader.cpp
+  Model.cpp
+  PointLighting.cpp
+  Polygon3D.cpp
+  Rasteriser.cpp
+  Vector3D.cpp
+  Vertex.cpp
+  Generating code
+  All 450 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Rasteriser.vcxproj -> C:\Users\Jason\Desktop\Graphics Final\3D_Model_Renderer v1.0\x64\Release\Rasteriser.exe
